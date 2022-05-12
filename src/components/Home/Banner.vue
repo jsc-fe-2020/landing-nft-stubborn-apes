@@ -47,5 +47,9 @@
   .text-heading-promo{
       font-size: 1.8rem;
   }
+
+  .text-xl{
+    font-size: 1rem;
+}
 }
 </style>
