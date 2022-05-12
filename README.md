@@ -1,6 +1,6 @@
-# vue3-vite-starter-template
+# Landing NTF Stubborn Apes 
 
-A single page app [Vite](https://vitejs.dev) starter template, created to easily bootstrap Vue.js 3 apps.
+Web clone by website [https://stubbornapesociety.com/](https://stubbornapesociety.com/)
 
 **Features**
 
